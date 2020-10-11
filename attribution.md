@@ -34,6 +34,10 @@ Audio
 
 [“Kara - Hooray.ogg”](https://freesound.org/people/javapimp/sounds/439039/#) by [javapimp](https://freesound.org/people/javapimp/) is licensed under [CC BY 3.0][CC-3.0].
 
+[“30-30 Lever Rifle Gunshot.wav”](https://freesound.org/people/Erokia/sounds/410399/) by [Erokia](https://freesound.org/people/Erokia/) is licensed under [CC BY 3.0][CC-3.0].
+
+[“Shaking a Bush or Plant”](https://freesound.org/people/RuonVNiekerk/sounds/327923/) by [RuonVNiekerk](https://freesound.org/people/RuonVNiekerk/) is licensed under [CC BY 3.0][CC-3.0].
+
 
 
 Music
