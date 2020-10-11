@@ -40,6 +40,10 @@ Spy Glass by Kevin MacLeod
 Link: https://incompetech.filmmusic.io/song/4410-spy-glass
 License: http://creativecommons.org/licenses/by/4.0/
 
+Glitter Blast by Kevin MacLeod
+Link: https://incompetech.filmmusic.io/song/4707-glitter-blast
+License: http://creativecommons.org/licenses/by/4.0/
+
 
 
 [CC-3.0]: https://creativecommons.org/licenses/by/3.0/
