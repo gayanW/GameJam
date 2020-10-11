@@ -32,6 +32,9 @@ Audio
 
 [“OWI_Cow Moo”](https://freesound.org/people/Cllari/sounds/445572/) by [Cllari](https://freesound.org/people/Cllari/) is licensed under [CC BY 3.0][CC-3.0].
 
+[“Kara - Hooray.ogg”](https://freesound.org/people/javapimp/sounds/439039/#) by [javapimp](https://freesound.org/people/javapimp/) is licensed under [CC BY 3.0][CC-3.0].
+
+
 
 Music
 -----
