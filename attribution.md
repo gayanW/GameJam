@@ -47,6 +47,10 @@ Glitter Blast by Kevin MacLeod
 Link: https://incompetech.filmmusic.io/song/4707-glitter-blast
 License: http://creativecommons.org/licenses/by/4.0/
 
+With the Sea by Kevin MacLeod
+Link: https://incompetech.filmmusic.io/song/4638-with-the-sea
+License: http://creativecommons.org/licenses/by/4.0/
+
 
 
 [CC-3.0]: https://creativecommons.org/licenses/by/3.0/
