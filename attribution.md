@@ -1,8 +1,7 @@
+Thanks to following openly licensed audio, we're able to make the prototype level of our game, 'Farm Redemption', more a pleasing experience. The prototype level is completely playable, and acutally one could finish that level.
+
 Attribution
 ===========
-
-We have used the following openly licensed audio in our game 'Farm Redemption'.
-
 Audio
 -----
 
@@ -58,5 +57,3 @@ License: http://creativecommons.org/licenses/by/4.0/
 
 
 [CC-3.0]: https://creativecommons.org/licenses/by/3.0/
-
-
